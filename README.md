@@ -1,4 +1,4 @@
-# Real Time ASL Recognition
+# Real Time ASL Recognition ( Working )
 Real Time American Sign Language Recognition done as a part of Computer Vision course. I haven't added the dataset has its too large for github. 
 
 
